@@ -1,0 +1,16 @@
+.s1 {
+	background-image: url("https://www.rollingstone.de/wp-content/uploads/2020/09/07/10/metallica-s-m-2-gettyimages-1172890486.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top left;
+	height: 600px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-size: 50px;
+	color: darkred;
+}
